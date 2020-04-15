@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  quantity: 1
+  due_date: 2020-04-15 09:49:50
+
+two:
+  name: MyString
+  description: MyText
+  quantity: 1
+  due_date: 2020-04-15 09:49:50
